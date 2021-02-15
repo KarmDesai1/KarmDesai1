@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarmDesai1
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Developmenr
+- 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me krd37@njit.edu
 
 <!---
